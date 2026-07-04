@@ -8,7 +8,9 @@ Data Science Graduate passionate about Machine Learning, Artificial Intelligence
 
 ## Live Website
 
-(Coming Soon)
+## 🌐 Live Demo
+
+https://nidhi-yadav-portfolio-8bfb.vercel.app/
 
 ## Technologies
 
